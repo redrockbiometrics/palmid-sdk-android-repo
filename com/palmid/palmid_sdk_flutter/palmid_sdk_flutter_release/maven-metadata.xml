@@ -3,11 +3,11 @@
   <groupId>com.palmid.palmid_sdk_flutter</groupId>
   <artifactId>palmid_sdk_flutter_release</artifactId>
   <versioning>
-    <latest>1.3.6</latest>
-    <release>1.3.6</release>
+    <latest>1.3.6-offline</latest>
+    <release>1.3.6-offline</release>
     <versions>
-      <version>1.3.6</version>
+      <version>1.3.6-offline</version>
     </versions>
-    <lastUpdated>20250803154935</lastUpdated>
+    <lastUpdated>20250803155419</lastUpdated>
   </versioning>
 </metadata>

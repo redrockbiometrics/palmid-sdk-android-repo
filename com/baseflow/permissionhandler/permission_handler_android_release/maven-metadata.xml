@@ -3,11 +3,11 @@
   <groupId>com.baseflow.permissionhandler</groupId>
   <artifactId>permission_handler_android_release</artifactId>
   <versioning>
-    <latest>1.3.6-offline</latest>
-    <release>1.3.6-offline</release>
+    <latest>1.3.7</latest>
+    <release>1.3.7</release>
     <versions>
-      <version>1.3.6-offline</version>
+      <version>1.3.7</version>
     </versions>
-    <lastUpdated>20250803155435</lastUpdated>
+    <lastUpdated>20250817154716</lastUpdated>
   </versioning>
 </metadata>

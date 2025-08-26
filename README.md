@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.3.8`
+> `1.3.8-offline`
 
 ---
 

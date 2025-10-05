@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.3.9-offline`
+> `1.4.0-offline`
 
 ---
 

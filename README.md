@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.4.1-offline`
+> `1.4.1-pearson-offline`
 
 ---
 

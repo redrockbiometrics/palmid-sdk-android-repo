@@ -3,11 +3,11 @@
   <groupId>com.palmid</groupId>
   <artifactId>native_sdk</artifactId>
   <versioning>
-    <latest>1.4.1-offline</latest>
-    <release>1.4.1-offline</release>
+    <latest>1.4.1-pearson-offline</latest>
+    <release>1.4.1-pearson-offline</release>
     <versions>
-      <version>1.4.1-offline</version>
+      <version>1.4.1-pearson-offline</version>
     </versions>
-    <lastUpdated>20251009153636</lastUpdated>
+    <lastUpdated>20251014175440</lastUpdated>
   </versioning>
 </metadata>

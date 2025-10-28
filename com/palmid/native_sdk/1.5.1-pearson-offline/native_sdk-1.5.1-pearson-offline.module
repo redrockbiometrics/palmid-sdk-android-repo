@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.palmid",
+    "module": "native_sdk",
+    "version": "1.5.1-pearson-offline",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.palmid.embed_app",
+          "module": "flutter_release",
+          "version": {
+            "requires": "1.5.1-pearson-offline"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "native_sdk-1.5.1-pearson-offline.aar",
+          "url": "native_sdk-1.5.1-pearson-offline.aar",
+          "size": 56989,
+          "sha512": "59eebb8d4373da80f38f83702f9e3aa3d94fd108d1f17664a707ca39589d9c4f34d6a155ec71a22274ce928389322116a701d553d12dae4a8cc860fff028e75c",
+          "sha256": "2076a7812e64c63e7cca59dbce18e5794cc6892abedbd60476b83f08c193ea41",
+          "sha1": "268a91248ab9b8c8aba47225075712f71ad9364e",
+          "md5": "3d544d708e77d67ab85970898d47c8cd"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.10.0"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.1.4"
+          }
+        },
+        {
+          "group": "com.palmid.embed_app",
+          "module": "flutter_release",
+          "version": {
+            "requires": "1.5.1-pearson-offline"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "native_sdk-1.5.1-pearson-offline.aar",
+          "url": "native_sdk-1.5.1-pearson-offline.aar",
+          "size": 56989,
+          "sha512": "59eebb8d4373da80f38f83702f9e3aa3d94fd108d1f17664a707ca39589d9c4f34d6a155ec71a22274ce928389322116a701d553d12dae4a8cc860fff028e75c",
+          "sha256": "2076a7812e64c63e7cca59dbce18e5794cc6892abedbd60476b83f08c193ea41",
+          "sha1": "268a91248ab9b8c8aba47225075712f71ad9364e",
+          "md5": "3d544d708e77d67ab85970898d47c8cd"
+        }
+      ]
+    }
+  ]
+}

@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.5.1-pearson`
+> `1.5.1`
 
 ---
 

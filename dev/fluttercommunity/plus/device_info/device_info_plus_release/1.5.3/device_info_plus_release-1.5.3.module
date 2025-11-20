@@ -35,11 +35,11 @@
         {
           "name": "device_info_plus_release-1.5.3.aar",
           "url": "device_info_plus_release-1.5.3.aar",
-          "size": 7083,
-          "sha512": "f349fdc987a8641ee13554a1e8ac41d2d8379936220e3f44e598c58f5a9a25f8c9ee7ed5d7f393781a9dce6bcccda0a364b533c4033010dea5c055f41fb58d68",
-          "sha256": "50e7fc2a2935ac9ed07df315674b2d335b0da6fe588a5bd7ec48639fb803a0aa",
-          "sha1": "aa26b47f69f94f5048429e356616862269cb11a8",
-          "md5": "0d83bfd016b100cb0cba25f523169841"
+          "size": 7080,
+          "sha512": "d90496a2f7ec5aba017e657b80f3d472a699b5c52061b21206bbbdfc38b1a5c38e4f5e93f9e3ebb8f50dc88c297534d552e0ca72a68c913617b5af0d918326a8",
+          "sha256": "c6df09b8817146d654326f8bc04e8d6395ec7dc656c829df67527aa6cb2c50fd",
+          "sha1": "d654eb2dc5457a1693b58817b33e94b22a1f6daa",
+          "md5": "339d73ee960f7ce622c0e183b487cb7c"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "device_info_plus_release-1.5.3.aar",
           "url": "device_info_plus_release-1.5.3.aar",
-          "size": 7083,
-          "sha512": "f349fdc987a8641ee13554a1e8ac41d2d8379936220e3f44e598c58f5a9a25f8c9ee7ed5d7f393781a9dce6bcccda0a364b533c4033010dea5c055f41fb58d68",
-          "sha256": "50e7fc2a2935ac9ed07df315674b2d335b0da6fe588a5bd7ec48639fb803a0aa",
-          "sha1": "aa26b47f69f94f5048429e356616862269cb11a8",
-          "md5": "0d83bfd016b100cb0cba25f523169841"
+          "size": 7080,
+          "sha512": "d90496a2f7ec5aba017e657b80f3d472a699b5c52061b21206bbbdfc38b1a5c38e4f5e93f9e3ebb8f50dc88c297534d552e0ca72a68c913617b5af0d918326a8",
+          "sha256": "c6df09b8817146d654326f8bc04e8d6395ec7dc656c829df67527aa6cb2c50fd",
+          "sha1": "d654eb2dc5457a1693b58817b33e94b22a1f6daa",
+          "md5": "339d73ee960f7ce622c0e183b487cb7c"
         }
       ]
     },

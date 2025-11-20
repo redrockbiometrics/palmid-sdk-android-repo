@@ -59,8 +59,22 @@
           }
         },
         {
-          "group": "com.palmid.palmid_sdk_flutter",
-          "module": "palmid_sdk_flutter_release",
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_release",
+          "version": {
+            "requires": "1.5.3"
+          }
+        },
+        {
+          "group": "com.redrockbiometrics.palmid_sdk_flutter_android_veinshine",
+          "module": "palmid_sdk_flutter_android_veinshine_release",
+          "version": {
+            "requires": "1.5.3"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.pathprovider",
+          "module": "path_provider_android_release",
           "version": {
             "requires": "1.5.3"
           }
@@ -84,11 +98,11 @@
         {
           "name": "flutter_release-1.5.3.aar",
           "url": "flutter_release-1.5.3.aar",
-          "size": 9909034,
-          "sha512": "721c0620f503ccde3fa2751d4a7bcae33d60ea33cde766b31ae1654e4b6cc9ae1759230e3227f5f074cf08592949398074fcc0169faaa30b97d7b8fd2fd79091",
-          "sha256": "3cfc9fa3efb1daf0f8d55121a0bbbb1e7609907cbb6529b8d8d35ae3b36ac4bc",
-          "sha1": "5803c13e7417888e135f694e7909037e7bcaaf52",
-          "md5": "195b202c786c990d24dc72a7b5511b38"
+          "size": 10383444,
+          "sha512": "f344b7697427a0a8b7c1e5330973d322e2447555f97d80872e089d5a313d4ff6990661294cd1c212a1ce66b40eb45f0b6ab94ffb3374b8e345de8ccc1b6b35fb",
+          "sha256": "cc2229829b6953f82822eddd34fe6c74bec441d9fe36ca34ff8fb63eaad33fc7",
+          "sha1": "35518f168e8885e6528384f88b0e7c3e9a78b1dc",
+          "md5": "288c5c308a1420e87f74712ce87790c9"
         }
       ]
     },
@@ -137,8 +151,22 @@
           }
         },
         {
-          "group": "com.palmid.palmid_sdk_flutter",
-          "module": "palmid_sdk_flutter_release",
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_release",
+          "version": {
+            "requires": "1.5.3"
+          }
+        },
+        {
+          "group": "com.redrockbiometrics.palmid_sdk_flutter_android_veinshine",
+          "module": "palmid_sdk_flutter_android_veinshine_release",
+          "version": {
+            "requires": "1.5.3"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.pathprovider",
+          "module": "path_provider_android_release",
           "version": {
             "requires": "1.5.3"
           }
@@ -162,11 +190,11 @@
         {
           "name": "flutter_release-1.5.3.aar",
           "url": "flutter_release-1.5.3.aar",
-          "size": 9909034,
-          "sha512": "721c0620f503ccde3fa2751d4a7bcae33d60ea33cde766b31ae1654e4b6cc9ae1759230e3227f5f074cf08592949398074fcc0169faaa30b97d7b8fd2fd79091",
-          "sha256": "3cfc9fa3efb1daf0f8d55121a0bbbb1e7609907cbb6529b8d8d35ae3b36ac4bc",
-          "sha1": "5803c13e7417888e135f694e7909037e7bcaaf52",
-          "md5": "195b202c786c990d24dc72a7b5511b38"
+          "size": 10383444,
+          "sha512": "f344b7697427a0a8b7c1e5330973d322e2447555f97d80872e089d5a313d4ff6990661294cd1c212a1ce66b40eb45f0b6ab94ffb3374b8e345de8ccc1b6b35fb",
+          "sha256": "cc2229829b6953f82822eddd34fe6c74bec441d9fe36ca34ff8fb63eaad33fc7",
+          "sha1": "35518f168e8885e6528384f88b0e7c3e9a78b1dc",
+          "md5": "288c5c308a1420e87f74712ce87790c9"
         }
       ]
     },
@@ -182,11 +210,11 @@
         {
           "name": "flutter_release-1.5.3-sources.jar",
           "url": "flutter_release-1.5.3-sources.jar",
-          "size": 1219,
-          "sha512": "5dee25b2aaf8dd852f009feb36187a3759faf128cef3bb98bd4cb6353b97f1493d9954af3006c16650d10ca58e43308da6e20799f2fc381af0e8cf58cf4d3a41",
-          "sha256": "38b843154ac91d10ebc426b265cf95494cd72589a6e532730f568493ce841c9d",
-          "sha1": "8232cb128221060e4c74e0cfa3708bb69a29ceab",
-          "md5": "7aef2f0609c7f2b1b87614b5ab2d4721"
+          "size": 1300,
+          "sha512": "ca1fdfc6f4a60dce089cbb43987387f7135253e22ceccec251978910051833dd4dee456d002b72647f227d527747da4b10a5068ecec2a72b4fdaf7dbdf387137",
+          "sha256": "52cd3962e110aa6cc6cbf1b184851a70a5a95d4229045c073fbdd69d1b7dfbe5",
+          "sha1": "7c2deb075d5a1591ca6852a97135a62ca53d66f1",
+          "md5": "0147ba56d620a09cbe55c7e262426fa4"
         }
       ]
     },

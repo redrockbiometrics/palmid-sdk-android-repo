@@ -98,11 +98,11 @@
         {
           "name": "flutter_release-1.5.3-veinshine.aar",
           "url": "flutter_release-1.5.3-veinshine.aar",
-          "size": 10383444,
-          "sha512": "f344b7697427a0a8b7c1e5330973d322e2447555f97d80872e089d5a313d4ff6990661294cd1c212a1ce66b40eb45f0b6ab94ffb3374b8e345de8ccc1b6b35fb",
-          "sha256": "cc2229829b6953f82822eddd34fe6c74bec441d9fe36ca34ff8fb63eaad33fc7",
-          "sha1": "35518f168e8885e6528384f88b0e7c3e9a78b1dc",
-          "md5": "288c5c308a1420e87f74712ce87790c9"
+          "size": 10386567,
+          "sha512": "f7ea10635b00103beed3013cb3035a8ccfda3ea57acc9f974b8d94e542f308e1368095f432493ed07546a505554d2de2fa5dcce6a77e3b188b6e63b1ab7f06c0",
+          "sha256": "972a6b203fa226699ce838eb77a58579fd09e7ed1738e8227fe1a5f73e60a5c1",
+          "sha1": "f09e10d8085a481c8eaa2545d87c138da71945c8",
+          "md5": "a4d67f5ee89498ddcb7d66b4773518cc"
         }
       ]
     },
@@ -190,11 +190,11 @@
         {
           "name": "flutter_release-1.5.3-veinshine.aar",
           "url": "flutter_release-1.5.3-veinshine.aar",
-          "size": 10383444,
-          "sha512": "f344b7697427a0a8b7c1e5330973d322e2447555f97d80872e089d5a313d4ff6990661294cd1c212a1ce66b40eb45f0b6ab94ffb3374b8e345de8ccc1b6b35fb",
-          "sha256": "cc2229829b6953f82822eddd34fe6c74bec441d9fe36ca34ff8fb63eaad33fc7",
-          "sha1": "35518f168e8885e6528384f88b0e7c3e9a78b1dc",
-          "md5": "288c5c308a1420e87f74712ce87790c9"
+          "size": 10386567,
+          "sha512": "f7ea10635b00103beed3013cb3035a8ccfda3ea57acc9f974b8d94e542f308e1368095f432493ed07546a505554d2de2fa5dcce6a77e3b188b6e63b1ab7f06c0",
+          "sha256": "972a6b203fa226699ce838eb77a58579fd09e7ed1738e8227fe1a5f73e60a5c1",
+          "sha1": "f09e10d8085a481c8eaa2545d87c138da71945c8",
+          "md5": "a4d67f5ee89498ddcb7d66b4773518cc"
         }
       ]
     },

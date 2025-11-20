@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.5.3`
+> `1.5.3-veinshine`
 
 ---
 

@@ -59,22 +59,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
-          "module": "flutter_plugin_android_lifecycle_release",
-          "version": {
-            "requires": "1.5.3"
-          }
-        },
-        {
-          "group": "com.redrockbiometrics.palmid_sdk_flutter_android_veinshine",
-          "module": "palmid_sdk_flutter_android_veinshine_release",
-          "version": {
-            "requires": "1.5.3"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.pathprovider",
-          "module": "path_provider_android_release",
+          "group": "com.palmid.palmid_sdk_flutter",
+          "module": "palmid_sdk_flutter_release",
           "version": {
             "requires": "1.5.3"
           }
@@ -85,24 +71,17 @@
           "version": {
             "requires": "1.5.3"
           }
-        },
-        {
-          "group": "dev.fluttercommunity.plus.sensors",
-          "module": "sensors_plus_release",
-          "version": {
-            "requires": "1.5.3"
-          }
         }
       ],
       "files": [
         {
           "name": "flutter_release-1.5.3.aar",
           "url": "flutter_release-1.5.3.aar",
-          "size": 10383444,
-          "sha512": "f344b7697427a0a8b7c1e5330973d322e2447555f97d80872e089d5a313d4ff6990661294cd1c212a1ce66b40eb45f0b6ab94ffb3374b8e345de8ccc1b6b35fb",
-          "sha256": "cc2229829b6953f82822eddd34fe6c74bec441d9fe36ca34ff8fb63eaad33fc7",
-          "sha1": "35518f168e8885e6528384f88b0e7c3e9a78b1dc",
-          "md5": "288c5c308a1420e87f74712ce87790c9"
+          "size": 8014193,
+          "sha512": "73438a7a8a251f16aecdced548d665f2b0303e72b3c2a0e765cddca49d224897aac2f9302005c9c0b44a163469494b8fb21029bdd61d15a615b8d22b8582ed14",
+          "sha256": "3cf101c23090fe2f25d95b12bf820d31a2e18123305662a9055c5a5990bf02a3",
+          "sha1": "47069e0d948e240783518716677293d39d038ab9",
+          "md5": "2d7470afb2c8ccc235e9c79cb14d032a"
         }
       ]
     },
@@ -151,22 +130,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
-          "module": "flutter_plugin_android_lifecycle_release",
-          "version": {
-            "requires": "1.5.3"
-          }
-        },
-        {
-          "group": "com.redrockbiometrics.palmid_sdk_flutter_android_veinshine",
-          "module": "palmid_sdk_flutter_android_veinshine_release",
-          "version": {
-            "requires": "1.5.3"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.pathprovider",
-          "module": "path_provider_android_release",
+          "group": "com.palmid.palmid_sdk_flutter",
+          "module": "palmid_sdk_flutter_release",
           "version": {
             "requires": "1.5.3"
           }
@@ -177,24 +142,17 @@
           "version": {
             "requires": "1.5.3"
           }
-        },
-        {
-          "group": "dev.fluttercommunity.plus.sensors",
-          "module": "sensors_plus_release",
-          "version": {
-            "requires": "1.5.3"
-          }
         }
       ],
       "files": [
         {
           "name": "flutter_release-1.5.3.aar",
           "url": "flutter_release-1.5.3.aar",
-          "size": 10383444,
-          "sha512": "f344b7697427a0a8b7c1e5330973d322e2447555f97d80872e089d5a313d4ff6990661294cd1c212a1ce66b40eb45f0b6ab94ffb3374b8e345de8ccc1b6b35fb",
-          "sha256": "cc2229829b6953f82822eddd34fe6c74bec441d9fe36ca34ff8fb63eaad33fc7",
-          "sha1": "35518f168e8885e6528384f88b0e7c3e9a78b1dc",
-          "md5": "288c5c308a1420e87f74712ce87790c9"
+          "size": 8014193,
+          "sha512": "73438a7a8a251f16aecdced548d665f2b0303e72b3c2a0e765cddca49d224897aac2f9302005c9c0b44a163469494b8fb21029bdd61d15a615b8d22b8582ed14",
+          "sha256": "3cf101c23090fe2f25d95b12bf820d31a2e18123305662a9055c5a5990bf02a3",
+          "sha1": "47069e0d948e240783518716677293d39d038ab9",
+          "md5": "2d7470afb2c8ccc235e9c79cb14d032a"
         }
       ]
     },
@@ -210,11 +168,11 @@
         {
           "name": "flutter_release-1.5.3-sources.jar",
           "url": "flutter_release-1.5.3-sources.jar",
-          "size": 1300,
-          "sha512": "ca1fdfc6f4a60dce089cbb43987387f7135253e22ceccec251978910051833dd4dee456d002b72647f227d527747da4b10a5068ecec2a72b4fdaf7dbdf387137",
-          "sha256": "52cd3962e110aa6cc6cbf1b184851a70a5a95d4229045c073fbdd69d1b7dfbe5",
-          "sha1": "7c2deb075d5a1591ca6852a97135a62ca53d66f1",
-          "md5": "0147ba56d620a09cbe55c7e262426fa4"
+          "size": 1197,
+          "sha512": "13af0260069b10229f99622f0cd22873d143cd97879092b96391366c94c98cd9919e3d939e0d1af2da3f3c81086903d276546eaf97c92f67b7adbb040fa9718f",
+          "sha256": "cf6994093f2e397b7c3404d5b363748790b42bf75ca5c7a18ae7593ed025503a",
+          "sha1": "ce9643c1428d35b1451cdf51c283aa6bae54248a",
+          "md5": "131e59e4a103a174cd813de4f80428c2"
         }
       ]
     },

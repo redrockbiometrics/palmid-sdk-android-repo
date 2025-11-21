@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.3"
+      "version": "8.7"
     }
   },
   "variants": [
@@ -35,11 +35,11 @@
         {
           "name": "native_sdk-1.5.3.aar",
           "url": "native_sdk-1.5.3.aar",
-          "size": 58000,
-          "sha512": "465319e01762023f83f499f9f894730eeb2df7011fe38601d331db2143a8ae3a746b77b5f237500118c23cf1b15bd556dc0fe4d50f631eb13f4903a08fc79135",
-          "sha256": "d960ed1820062eaee7dcd9a078860d3c462277320984f5bc51763cacaf4a5ce2",
-          "sha1": "3b4d57491b836d12a2d46cb1836caf57e5059338",
-          "md5": "fa086b2b84b2e5758065dccb4ef4dc21"
+          "size": 12164,
+          "sha512": "0b1426a799568bed6a3ff1451c36df2865c79cc1f9c8d621ba4027c907025b0866f2f1e0530278faed6bed4d0c2f4d7ea5ce91d8053cf4ea4ea585567b9d725e",
+          "sha256": "600f8e81f6e174951fe25d71f07e63871fb8b280a4b46c530fa7609bc9d5d429",
+          "sha1": "5e2c33ea92e3107930554af561b51481a2bf69d8",
+          "md5": "f5cc4d73f614614e5e1a9c5dbed499a7"
         }
       ]
     },
@@ -92,11 +92,11 @@
         {
           "name": "native_sdk-1.5.3.aar",
           "url": "native_sdk-1.5.3.aar",
-          "size": 58000,
-          "sha512": "465319e01762023f83f499f9f894730eeb2df7011fe38601d331db2143a8ae3a746b77b5f237500118c23cf1b15bd556dc0fe4d50f631eb13f4903a08fc79135",
-          "sha256": "d960ed1820062eaee7dcd9a078860d3c462277320984f5bc51763cacaf4a5ce2",
-          "sha1": "3b4d57491b836d12a2d46cb1836caf57e5059338",
-          "md5": "fa086b2b84b2e5758065dccb4ef4dc21"
+          "size": 12164,
+          "sha512": "0b1426a799568bed6a3ff1451c36df2865c79cc1f9c8d621ba4027c907025b0866f2f1e0530278faed6bed4d0c2f4d7ea5ce91d8053cf4ea4ea585567b9d725e",
+          "sha256": "600f8e81f6e174951fe25d71f07e63871fb8b280a4b46c530fa7609bc9d5d429",
+          "sha1": "5e2c33ea92e3107930554af561b51481a2bf69d8",
+          "md5": "f5cc4d73f614614e5e1a9c5dbed499a7"
         }
       ]
     }

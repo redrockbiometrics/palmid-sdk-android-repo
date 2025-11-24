@@ -84,11 +84,11 @@
         {
           "name": "flutter_release-1.5.4-pearson-offline.aar",
           "url": "flutter_release-1.5.4-pearson-offline.aar",
-          "size": 9124954,
-          "sha512": "a6e31aa1d1ebe3713bd0708eccb538d6aa9604a61a85cd6af6f704b62851b4e7eebad70b5136969a0d0bdc6bb11c1234c0ef88de02e706d08feed8d2d6a4d7ec",
-          "sha256": "ddafc108d8e92dbe4d488c09ce2bb949257679c865cbd6f14dff24223d991834",
-          "sha1": "850ee08574987d4fd50651e6eba91337aa2b1914",
-          "md5": "e6a66ccf7958a3d6485a09d0e2ef83ff"
+          "size": 9126397,
+          "sha512": "d3a1c016b6c998a328ede5e1f2061f35b61d977682dcca8b718ecc57eeacc844735685ba40814aa824cd5ea95691fec9032227909e3c389b85b9a3558f2f56ee",
+          "sha256": "f741afac1e62221b4915387d847416088c6d90a2d2ee06177ad72161be352a98",
+          "sha1": "6211cab06f391813c1302c1adea35a37fc28c8c2",
+          "md5": "f4161c060111b1a45d545b45b133bf5a"
         }
       ]
     },
@@ -162,11 +162,11 @@
         {
           "name": "flutter_release-1.5.4-pearson-offline.aar",
           "url": "flutter_release-1.5.4-pearson-offline.aar",
-          "size": 9124954,
-          "sha512": "a6e31aa1d1ebe3713bd0708eccb538d6aa9604a61a85cd6af6f704b62851b4e7eebad70b5136969a0d0bdc6bb11c1234c0ef88de02e706d08feed8d2d6a4d7ec",
-          "sha256": "ddafc108d8e92dbe4d488c09ce2bb949257679c865cbd6f14dff24223d991834",
-          "sha1": "850ee08574987d4fd50651e6eba91337aa2b1914",
-          "md5": "e6a66ccf7958a3d6485a09d0e2ef83ff"
+          "size": 9126397,
+          "sha512": "d3a1c016b6c998a328ede5e1f2061f35b61d977682dcca8b718ecc57eeacc844735685ba40814aa824cd5ea95691fec9032227909e3c389b85b9a3558f2f56ee",
+          "sha256": "f741afac1e62221b4915387d847416088c6d90a2d2ee06177ad72161be352a98",
+          "sha1": "6211cab06f391813c1302c1adea35a37fc28c8c2",
+          "md5": "f4161c060111b1a45d545b45b133bf5a"
         }
       ]
     },

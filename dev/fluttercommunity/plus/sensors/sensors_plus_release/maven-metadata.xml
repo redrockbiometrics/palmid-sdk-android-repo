@@ -3,11 +3,11 @@
   <groupId>dev.fluttercommunity.plus.sensors</groupId>
   <artifactId>sensors_plus_release</artifactId>
   <versioning>
-    <latest>1.5.3-veinshine</latest>
-    <release>1.5.3-veinshine</release>
+    <latest>1.5.4-pearson-offline</latest>
+    <release>1.5.4-pearson-offline</release>
     <versions>
-      <version>1.5.3-veinshine</version>
+      <version>1.5.4-pearson-offline</version>
     </versions>
-    <lastUpdated>20251120173827</lastUpdated>
+    <lastUpdated>20251124143200</lastUpdated>
   </versioning>
 </metadata>

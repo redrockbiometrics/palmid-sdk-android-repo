@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.pathprovider",
+    "module": "path_provider_android_release",
+    "version": "1.5.5-veinshine",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "path_provider_android_release-1.5.5-veinshine.aar",
+          "url": "path_provider_android_release-1.5.5-veinshine.aar",
+          "size": 10330,
+          "sha512": "ea9c9100431f9f92ac248b78bf1a055f323fea7f27f57078d7247217e487a62c369b8f513e0a80ae10d7f0fd78f2fb5dab778602784dcc213c9ba64e5a3f5092",
+          "sha256": "198ffe619beb951ac1af5af6c37392a4ad020d037528c3bba087c64658c5e699",
+          "sha1": "8d1605e5cd3a28aa817802b4be555b5e5e8ea68b",
+          "md5": "9b0f1ca655b4d249fb986116e0ac1986"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "path_provider_android_release-1.5.5-veinshine.aar",
+          "url": "path_provider_android_release-1.5.5-veinshine.aar",
+          "size": 10330,
+          "sha512": "ea9c9100431f9f92ac248b78bf1a055f323fea7f27f57078d7247217e487a62c369b8f513e0a80ae10d7f0fd78f2fb5dab778602784dcc213c9ba64e5a3f5092",
+          "sha256": "198ffe619beb951ac1af5af6c37392a4ad020d037528c3bba087c64658c5e699",
+          "sha1": "8d1605e5cd3a28aa817802b4be555b5e5e8ea68b",
+          "md5": "9b0f1ca655b4d249fb986116e0ac1986"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "path_provider_android_release-1.5.5-veinshine-sources.jar",
+          "url": "path_provider_android_release-1.5.5-veinshine-sources.jar",
+          "size": 4153,
+          "sha512": "8d0620e879a6668a7dcb1b54091eac971c86c0f1013d78c2728018c501598d095e00f47e47c7742978594c39df41cb896eb9d9a91c73453f6ebec7f3e3b409c2",
+          "sha256": "526f898c1240196664c940f06843d55dd7f6717365c167c476386277cca3d15c",
+          "sha1": "9bc69e92e2ab37ebea4cb511e4072550fe34d36a",
+          "md5": "b5f0db6ff8f305f4a799b8b39e4da48d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "path_provider_android_release-1.5.5-veinshine-javadoc.jar",
+          "url": "path_provider_android_release-1.5.5-veinshine-javadoc.jar",
+          "size": 294268,
+          "sha512": "8e44ac81e4063594176ae39989364d98741fbbb5b00ddda88ad98073550f28f2c1f7bd351c36d762929d974d70ae1a475a6d81de9a0cdefb0b09fb1ce86e6b86",
+          "sha256": "d60101a0dfe9b44708cc5e875afbdc9ffe89ccfc21c4e4d513a119297b378570",
+          "sha1": "5e9ed4c5a12b1a2fa73857b6086bc3f6c5b70c3d",
+          "md5": "50f6dfdec858861bad7a6a4322c84142"
+        }
+      ]
+    }
+  ]
+}

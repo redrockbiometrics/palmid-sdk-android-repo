@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.5.6-sylvain`
+> `1.5.6`
 
 ---
 

@@ -1,0 +1,172 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.palmid.palmid_sdk_flutter",
+    "module": "palmid_sdk_flutter_release",
+    "version": "1.5.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "palmid_sdk_flutter_release-1.5.6.aar",
+          "url": "palmid_sdk_flutter_release-1.5.6.aar",
+          "size": 34870986,
+          "sha512": "8594e80286c4ef32c01957292c92edac41e707b364a4965755ec6f58f32ac4f91abdeac74054e94474e31f4b606941d4fccd805fc3fb2995250a05328c6bccad",
+          "sha256": "76220dc1adf48cc3ca12adea31b13cd7c70d3d41cdeeda53bcd450219aef14a8",
+          "sha1": "f7ce8c2e378af44a219643e3361c9a01c8aae4c3",
+          "md5": "c1fed7f7bcba76a1039c1b72c86989ce"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.3.0-android"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-guava",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-core",
+          "version": {
+            "requires": "1.3.4"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-camera2",
+          "version": {
+            "requires": "1.3.4"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-lifecycle",
+          "version": {
+            "requires": "1.3.4"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.device_info",
+          "module": "device_info_plus_release",
+          "version": {
+            "requires": "1.5.6"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "palmid_sdk_flutter_release-1.5.6.aar",
+          "url": "palmid_sdk_flutter_release-1.5.6.aar",
+          "size": 34870986,
+          "sha512": "8594e80286c4ef32c01957292c92edac41e707b364a4965755ec6f58f32ac4f91abdeac74054e94474e31f4b606941d4fccd805fc3fb2995250a05328c6bccad",
+          "sha256": "76220dc1adf48cc3ca12adea31b13cd7c70d3d41cdeeda53bcd450219aef14a8",
+          "sha1": "f7ce8c2e378af44a219643e3361c9a01c8aae4c3",
+          "md5": "c1fed7f7bcba76a1039c1b72c86989ce"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "palmid_sdk_flutter_release-1.5.6-sources.jar",
+          "url": "palmid_sdk_flutter_release-1.5.6-sources.jar",
+          "size": 17149,
+          "sha512": "c097e9f9245cb64921f3c62f487b469ff0367e13d8122f72aa90d9deafcc4977899884bcba37afa25aef0b771434cebc43f59f5b9f439aa0bbb3e428cc3d107a",
+          "sha256": "b601253edc8ea544603e33119650b38e8264a53ac3ff240718a81b92c5e08081",
+          "sha1": "fd57504702462da7d451ad9181c7ad3df5f330cf",
+          "md5": "b4356bd794cdbc5a358a67e0f2e4436e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "palmid_sdk_flutter_release-1.5.6-javadoc.jar",
+          "url": "palmid_sdk_flutter_release-1.5.6-javadoc.jar",
+          "size": 423093,
+          "sha512": "b692d42338403189091dedc159b834b119636368e44e179f31742cedd6f5092cd682f4464d6b7995db51601690810d624aedd9b8e36bca70a29c36a7d29b7c26",
+          "sha256": "99125ca2d093931d544f271ec5fcae87531dc7613d29398653c75c288d16a94b",
+          "sha1": "7188d36966bfe82444448cb234be110a899b6571",
+          "md5": "22be4cdd3714b72b39bcc14c2f18c26a"
+        }
+      ]
+    }
+  ]
+}

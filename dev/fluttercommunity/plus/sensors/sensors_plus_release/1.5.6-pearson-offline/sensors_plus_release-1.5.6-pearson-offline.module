@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.fluttercommunity.plus.sensors",
+    "module": "sensors_plus_release",
+    "version": "1.5.6-pearson-offline",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sensors_plus_release-1.5.6-pearson-offline.aar",
+          "url": "sensors_plus_release-1.5.6-pearson-offline.aar",
+          "size": 9126,
+          "sha512": "4386553cd3696ff30a9be013d9d200c401ea798e9e88977d4d756defd4910a5a91384e1c241fe8dbe1fb1545ff62a41b58ff542140d7f843fb3df57a8997428d",
+          "sha256": "8987962254be4d8e4011f551f1120dad668a07538f1f0929e738fac73dc08b34",
+          "sha1": "f79cbba473849ac57e2bffec7af8b6399996cb54",
+          "md5": "23dd11d7eaff8d30039726f927b4148e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.7.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sensors_plus_release-1.5.6-pearson-offline.aar",
+          "url": "sensors_plus_release-1.5.6-pearson-offline.aar",
+          "size": 9126,
+          "sha512": "4386553cd3696ff30a9be013d9d200c401ea798e9e88977d4d756defd4910a5a91384e1c241fe8dbe1fb1545ff62a41b58ff542140d7f843fb3df57a8997428d",
+          "sha256": "8987962254be4d8e4011f551f1120dad668a07538f1f0929e738fac73dc08b34",
+          "sha1": "f79cbba473849ac57e2bffec7af8b6399996cb54",
+          "md5": "23dd11d7eaff8d30039726f927b4148e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sensors_plus_release-1.5.6-pearson-offline-sources.jar",
+          "url": "sensors_plus_release-1.5.6-pearson-offline-sources.jar",
+          "size": 3078,
+          "sha512": "ff8c14ac129b7e7d57ba1c1d48a7bd51656b3a77eccd557666bdf8a3b0172ecca0df5ba81b9ebbe8d029f941c22d8f18a241481915f11253f61492bda395d5e3",
+          "sha256": "bc48e760fb87da67a364f00faddba3a1e477beac55f4ede297734f50cf1cd795",
+          "sha1": "6b5cb27f9ac4f036dc8728014deb48440cb4dfba",
+          "md5": "19db92f4ba177bdc11b351b78aa144de"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sensors_plus_release-1.5.6-pearson-offline-javadoc.jar",
+          "url": "sensors_plus_release-1.5.6-pearson-offline-javadoc.jar",
+          "size": 264736,
+          "sha512": "f00a60802a0238d0b91baf885aea8c5ed04f6ee11c1e485f0f29aa3a2a56bb93644ec16b2f3d41f1eccb4e0831a44bfbb8ef795410278029b4aca7bbda94f0ac",
+          "sha256": "c36eecb34b5b644d57ef7b238928aeccda5ab339da8fc4a6238faf45fe0c866b",
+          "sha1": "be3c983ded78d3d545a44ba9ccfbc69e2f2b07ff",
+          "md5": "be3937eb2fd30ba45b8225a742940feb"
+        }
+      ]
+    }
+  ]
+}

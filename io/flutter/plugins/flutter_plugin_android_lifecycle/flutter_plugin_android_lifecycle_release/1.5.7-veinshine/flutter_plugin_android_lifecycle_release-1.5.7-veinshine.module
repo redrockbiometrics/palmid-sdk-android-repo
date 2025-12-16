@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+    "module": "flutter_plugin_android_lifecycle_release",
+    "version": "1.5.7-veinshine",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-1.5.7-veinshine.aar",
+          "url": "flutter_plugin_android_lifecycle_release-1.5.7-veinshine.aar",
+          "size": 2475,
+          "sha512": "2a97f528ede0b83142d9a25deec5aee1caa99369f73efed413e45a375b48da30f977529a7f791c5769ff6bd3d46fc3880fd3dfec37a8be717b0162eac5ab3021",
+          "sha256": "b20912dd899945d34dfc865103237ee300540d47f84d53b94483445d5a8bdd07",
+          "sha1": "9740738e61a2d5bf20c27f284c4d5616956deb40",
+          "md5": "15d084c98b80c39477e9a3c6abb49f94"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-1.5.7-veinshine.aar",
+          "url": "flutter_plugin_android_lifecycle_release-1.5.7-veinshine.aar",
+          "size": 2475,
+          "sha512": "2a97f528ede0b83142d9a25deec5aee1caa99369f73efed413e45a375b48da30f977529a7f791c5769ff6bd3d46fc3880fd3dfec37a8be717b0162eac5ab3021",
+          "sha256": "b20912dd899945d34dfc865103237ee300540d47f84d53b94483445d5a8bdd07",
+          "sha1": "9740738e61a2d5bf20c27f284c4d5616956deb40",
+          "md5": "15d084c98b80c39477e9a3c6abb49f94"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-1.5.7-veinshine-sources.jar",
+          "url": "flutter_plugin_android_lifecycle_release-1.5.7-veinshine-sources.jar",
+          "size": 2683,
+          "sha512": "a3f7fee602ae01e1fe53ad82c914db15159744a75a0e4f439cdbe5e530abf6d3b431e26802ccd3cf08245278758e1aef335a9e00aec7ded1b1c89a60a53d7915",
+          "sha256": "ea22384264efbced6ae1be61be8aadee870b81c3a1e0b6accc0ef62396aaeae0",
+          "sha1": "1ddcac6e1149d882ff8719e00a4eebfeb282eb36",
+          "md5": "351ed496e751473b57d20e3a693b432d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-1.5.7-veinshine-javadoc.jar",
+          "url": "flutter_plugin_android_lifecycle_release-1.5.7-veinshine-javadoc.jar",
+          "size": 269855,
+          "sha512": "48bfffda15e6508c888a9c7ce1a6fc3f6273c46a4fc92fa8334e0b5ba60dfcb9edfa8eb763bb906fee5902ea8c5956c467aa6959cfdcafe9ddb1f19c6759d3fd",
+          "sha256": "4ce7fe31dc0f5febb56c31d4938377e2e91a76d9017195718fcd7420f88896ce",
+          "sha1": "2a2d011e042ee660ef378fee66e0e2d799c6a758",
+          "md5": "916a7e0557642cb40fdd214d7cf63aef"
+        }
+      ]
+    }
+  ]
+}

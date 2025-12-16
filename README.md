@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.5.7-pearson-offline`
+> `1.5.7-veinshine`
 
 ---
 

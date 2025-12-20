@@ -3,11 +3,11 @@
   <groupId>io.flutter.plugins.flutter_plugin_android_lifecycle</groupId>
   <artifactId>flutter_plugin_android_lifecycle_release</artifactId>
   <versioning>
-    <latest>1.5.7-veinshine</latest>
-    <release>1.5.7-veinshine</release>
+    <latest>1.5.8-sylvain</latest>
+    <release>1.5.8-sylvain</release>
     <versions>
-      <version>1.5.7-veinshine</version>
+      <version>1.5.8-sylvain</version>
     </versions>
-    <lastUpdated>20251216161809</lastUpdated>
+    <lastUpdated>20251220141315</lastUpdated>
   </versioning>
 </metadata>

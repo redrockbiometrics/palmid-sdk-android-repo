@@ -3,11 +3,11 @@
   <groupId>com.redrockbiometrics.palmid_sdk_flutter_android_veinshine</groupId>
   <artifactId>palmid_sdk_flutter_android_veinshine_release</artifactId>
   <versioning>
-    <latest>1.5.7-veinshine</latest>
-    <release>1.5.7-veinshine</release>
+    <latest>1.5.8-sylvain</latest>
+    <release>1.5.8-sylvain</release>
     <versions>
-      <version>1.5.7-veinshine</version>
+      <version>1.5.8-sylvain</version>
     </versions>
-    <lastUpdated>20251216161917</lastUpdated>
+    <lastUpdated>20251220141412</lastUpdated>
   </versioning>
 </metadata>

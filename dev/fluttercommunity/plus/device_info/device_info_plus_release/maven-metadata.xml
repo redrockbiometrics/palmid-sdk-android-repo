@@ -3,11 +3,11 @@
   <groupId>dev.fluttercommunity.plus.device_info</groupId>
   <artifactId>device_info_plus_release</artifactId>
   <versioning>
-    <latest>1.6.0-veinshine</latest>
-    <release>1.6.0-veinshine</release>
+    <latest>1.6.0-sylvain</latest>
+    <release>1.6.0-sylvain</release>
     <versions>
-      <version>1.6.0-veinshine</version>
+      <version>1.6.0-sylvain</version>
     </versions>
-    <lastUpdated>20251221091422</lastUpdated>
+    <lastUpdated>20251221092742</lastUpdated>
   </versioning>
 </metadata>

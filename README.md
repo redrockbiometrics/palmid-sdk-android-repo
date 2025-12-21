@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.6.0-veinshine`
+> `1.6.0-sylvain`
 
 ---
 

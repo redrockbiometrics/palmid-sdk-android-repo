@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.pathprovider",
+    "module": "path_provider_android_release",
+    "version": "1.6.0-sylvain",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "path_provider_android_release-1.6.0-sylvain.aar",
+          "url": "path_provider_android_release-1.6.0-sylvain.aar",
+          "size": 10330,
+          "sha512": "ea9c9100431f9f92ac248b78bf1a055f323fea7f27f57078d7247217e487a62c369b8f513e0a80ae10d7f0fd78f2fb5dab778602784dcc213c9ba64e5a3f5092",
+          "sha256": "198ffe619beb951ac1af5af6c37392a4ad020d037528c3bba087c64658c5e699",
+          "sha1": "8d1605e5cd3a28aa817802b4be555b5e5e8ea68b",
+          "md5": "9b0f1ca655b4d249fb986116e0ac1986"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "path_provider_android_release-1.6.0-sylvain.aar",
+          "url": "path_provider_android_release-1.6.0-sylvain.aar",
+          "size": 10330,
+          "sha512": "ea9c9100431f9f92ac248b78bf1a055f323fea7f27f57078d7247217e487a62c369b8f513e0a80ae10d7f0fd78f2fb5dab778602784dcc213c9ba64e5a3f5092",
+          "sha256": "198ffe619beb951ac1af5af6c37392a4ad020d037528c3bba087c64658c5e699",
+          "sha1": "8d1605e5cd3a28aa817802b4be555b5e5e8ea68b",
+          "md5": "9b0f1ca655b4d249fb986116e0ac1986"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "path_provider_android_release-1.6.0-sylvain-sources.jar",
+          "url": "path_provider_android_release-1.6.0-sylvain-sources.jar",
+          "size": 4153,
+          "sha512": "8d0620e879a6668a7dcb1b54091eac971c86c0f1013d78c2728018c501598d095e00f47e47c7742978594c39df41cb896eb9d9a91c73453f6ebec7f3e3b409c2",
+          "sha256": "526f898c1240196664c940f06843d55dd7f6717365c167c476386277cca3d15c",
+          "sha1": "9bc69e92e2ab37ebea4cb511e4072550fe34d36a",
+          "md5": "b5f0db6ff8f305f4a799b8b39e4da48d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "path_provider_android_release-1.6.0-sylvain-javadoc.jar",
+          "url": "path_provider_android_release-1.6.0-sylvain-javadoc.jar",
+          "size": 294276,
+          "sha512": "cab0f6d3be1d799bd1c8c35f0c9f0a31f8cfaf662c6e1e8a4779441621710ce1f386e146b52c34c726ff4428fe408c9d468b71aa16b629c128c0bbce1b8d186e",
+          "sha256": "fe710591d4b1f8ceefbef59149b6548b6deb4fb719380141312c61f2b57f4284",
+          "sha1": "66e0d21387a04c48552141cbb561eb0905553193",
+          "md5": "5edbdaf7b84ada64df55cb031a1a11ba"
+        }
+      ]
+    }
+  ]
+}

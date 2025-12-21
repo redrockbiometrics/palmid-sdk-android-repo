@@ -1,0 +1,151 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.redrockbiometrics.palmid_sdk_flutter_android_veinshine",
+    "module": "palmid_sdk_flutter_android_veinshine_release",
+    "version": "1.6.0-veinshine",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "palmid_sdk_flutter_android_veinshine_release-1.6.0-veinshine.aar",
+          "url": "palmid_sdk_flutter_android_veinshine_release-1.6.0-veinshine.aar",
+          "size": 30103413,
+          "sha512": "4ec671ba209a97d1f0447b2f25d3534f42b52bd4e14c93b7fbf21448abaa5f518db4c1b67aeaa56e7927dc8de482e1ed919b12a3e156ca36840cec35abb4da38",
+          "sha256": "08eee15878d513fc1d6eb3d7b0cd88a3cb18603fa3f18f14d08b521222f10567",
+          "sha1": "bb79534d03048f74087d1ffe0d8f77986390c4c4",
+          "md5": "bfa0b5b47dfb24a09590d19c67416187"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.10.1"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-common-java8",
+          "version": {
+            "requires": "2.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "palmid_sdk_flutter_android_veinshine_release-1.6.0-veinshine.aar",
+          "url": "palmid_sdk_flutter_android_veinshine_release-1.6.0-veinshine.aar",
+          "size": 30103413,
+          "sha512": "4ec671ba209a97d1f0447b2f25d3534f42b52bd4e14c93b7fbf21448abaa5f518db4c1b67aeaa56e7927dc8de482e1ed919b12a3e156ca36840cec35abb4da38",
+          "sha256": "08eee15878d513fc1d6eb3d7b0cd88a3cb18603fa3f18f14d08b521222f10567",
+          "sha1": "bb79534d03048f74087d1ffe0d8f77986390c4c4",
+          "md5": "bfa0b5b47dfb24a09590d19c67416187"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "palmid_sdk_flutter_android_veinshine_release-1.6.0-veinshine-sources.jar",
+          "url": "palmid_sdk_flutter_android_veinshine_release-1.6.0-veinshine-sources.jar",
+          "size": 67323,
+          "sha512": "881fcf4d1a8f4dced5f0ad295b79ed11cf254f3b967ad3e50feb867d6df5a163869abec0fa7c66b3ae5402a6f7461ce9266001e3f12185fdefbecdc746949572",
+          "sha256": "e3c113a0b53d7c596a2e8d235472be95806d1420b675f9b3f1ebb514b5bdfafe",
+          "sha1": "183fa4f3ccaecf7876a8a676fb79e63aa1a159b4",
+          "md5": "b78adf685ac251a61a615577967da4e6"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "palmid_sdk_flutter_android_veinshine_release-1.6.0-veinshine-javadoc.jar",
+          "url": "palmid_sdk_flutter_android_veinshine_release-1.6.0-veinshine-javadoc.jar",
+          "size": 582316,
+          "sha512": "fcedabac58eaba4cd1b713fc522f01be35bd94f1473fa3bfbdff4632d74b43ac3f3aca63de86f5a7740e0c0783f0643dd48123078e3d26f02cd0d1cd71e6e746",
+          "sha256": "f09f963971d3d93bf99a5617b144a01f181520c9865b8880deda25688ccfb2a7",
+          "sha1": "3418ce8c3b8a76c69b40156e4c281197ef8f58fd",
+          "md5": "e757a4beb860e10091fe43260169fbec"
+        }
+      ]
+    }
+  ]
+}

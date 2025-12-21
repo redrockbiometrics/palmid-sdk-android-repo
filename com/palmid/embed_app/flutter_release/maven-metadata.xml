@@ -3,11 +3,11 @@
   <groupId>com.palmid.embed_app</groupId>
   <artifactId>flutter_release</artifactId>
   <versioning>
-    <latest>1.6.0</latest>
-    <release>1.6.0</release>
+    <latest>1.6.0-veinshine</latest>
+    <release>1.6.0-veinshine</release>
     <versions>
-      <version>1.6.0</version>
+      <version>1.6.0-veinshine</version>
     </versions>
-    <lastUpdated>20251221090605</lastUpdated>
+    <lastUpdated>20251221091437</lastUpdated>
   </versioning>
 </metadata>

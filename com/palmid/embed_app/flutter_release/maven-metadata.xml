@@ -3,11 +3,11 @@
   <groupId>com.palmid.embed_app</groupId>
   <artifactId>flutter_release</artifactId>
   <versioning>
-    <latest>1.6.2-sylvain-offline</latest>
-    <release>1.6.2-sylvain-offline</release>
+    <latest>1.6.3-sylvain-offline</latest>
+    <release>1.6.3-sylvain-offline</release>
     <versions>
-      <version>1.6.2-sylvain-offline</version>
+      <version>1.6.3-sylvain-offline</version>
     </versions>
-    <lastUpdated>20260105162749</lastUpdated>
+    <lastUpdated>20260105170514</lastUpdated>
   </versioning>
 </metadata>

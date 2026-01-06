@@ -3,11 +3,11 @@
   <groupId>dev.fluttercommunity.plus.device_info</groupId>
   <artifactId>device_info_plus_release</artifactId>
   <versioning>
-    <latest>1.6.3-sylvain-offline</latest>
-    <release>1.6.3-sylvain-offline</release>
+    <latest>1.6.4-sylvain-offline</latest>
+    <release>1.6.4-sylvain-offline</release>
     <versions>
-      <version>1.6.3-sylvain-offline</version>
+      <version>1.6.4-sylvain-offline</version>
     </versions>
-    <lastUpdated>20260105170458</lastUpdated>
+    <lastUpdated>20260106160924</lastUpdated>
   </versioning>
 </metadata>

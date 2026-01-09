@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.6.4-pearson-offline`
+> `1.6.5-sylvain-offline`
 
 ---
 

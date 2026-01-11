@@ -3,11 +3,11 @@
   <groupId>io.flutter.plugins.pathprovider</groupId>
   <artifactId>path_provider_android_release</artifactId>
   <versioning>
-    <latest>1.6.5-sylvain-offline</latest>
-    <release>1.6.5-sylvain-offline</release>
+    <latest>1.6.6-sylvain-offline</latest>
+    <release>1.6.6-sylvain-offline</release>
     <versions>
-      <version>1.6.5-sylvain-offline</version>
+      <version>1.6.6-sylvain-offline</version>
     </versions>
-    <lastUpdated>20260109181937</lastUpdated>
+    <lastUpdated>20260111130446</lastUpdated>
   </versioning>
 </metadata>

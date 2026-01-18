@@ -3,11 +3,11 @@
   <groupId>com.baseflow.permissionhandler</groupId>
   <artifactId>permission_handler_android_release</artifactId>
   <versioning>
-    <latest>1.6.8-veinshine</latest>
-    <release>1.6.8-veinshine</release>
+    <latest>1.6.9-sylvain-offline</latest>
+    <release>1.6.9-sylvain-offline</release>
     <versions>
-      <version>1.6.8-veinshine</version>
+      <version>1.6.9-sylvain-offline</version>
     </versions>
-    <lastUpdated>20260116034212</lastUpdated>
+    <lastUpdated>20260118123645</lastUpdated>
   </versioning>
 </metadata>

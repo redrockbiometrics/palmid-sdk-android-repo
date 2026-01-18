@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.6.8-veinshine`
+> `1.6.9-sylvain-offline`
 
 ---
 

@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.pathprovider",
+    "module": "path_provider_android_release",
+    "version": "1.6.9-sylvain-offline",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "path_provider_android_release-1.6.9-sylvain-offline.aar",
+          "url": "path_provider_android_release-1.6.9-sylvain-offline.aar",
+          "size": 10330,
+          "sha512": "ea9c9100431f9f92ac248b78bf1a055f323fea7f27f57078d7247217e487a62c369b8f513e0a80ae10d7f0fd78f2fb5dab778602784dcc213c9ba64e5a3f5092",
+          "sha256": "198ffe619beb951ac1af5af6c37392a4ad020d037528c3bba087c64658c5e699",
+          "sha1": "8d1605e5cd3a28aa817802b4be555b5e5e8ea68b",
+          "md5": "9b0f1ca655b4d249fb986116e0ac1986"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "path_provider_android_release-1.6.9-sylvain-offline.aar",
+          "url": "path_provider_android_release-1.6.9-sylvain-offline.aar",
+          "size": 10330,
+          "sha512": "ea9c9100431f9f92ac248b78bf1a055f323fea7f27f57078d7247217e487a62c369b8f513e0a80ae10d7f0fd78f2fb5dab778602784dcc213c9ba64e5a3f5092",
+          "sha256": "198ffe619beb951ac1af5af6c37392a4ad020d037528c3bba087c64658c5e699",
+          "sha1": "8d1605e5cd3a28aa817802b4be555b5e5e8ea68b",
+          "md5": "9b0f1ca655b4d249fb986116e0ac1986"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "path_provider_android_release-1.6.9-sylvain-offline-sources.jar",
+          "url": "path_provider_android_release-1.6.9-sylvain-offline-sources.jar",
+          "size": 4153,
+          "sha512": "8d0620e879a6668a7dcb1b54091eac971c86c0f1013d78c2728018c501598d095e00f47e47c7742978594c39df41cb896eb9d9a91c73453f6ebec7f3e3b409c2",
+          "sha256": "526f898c1240196664c940f06843d55dd7f6717365c167c476386277cca3d15c",
+          "sha1": "9bc69e92e2ab37ebea4cb511e4072550fe34d36a",
+          "md5": "b5f0db6ff8f305f4a799b8b39e4da48d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "path_provider_android_release-1.6.9-sylvain-offline-javadoc.jar",
+          "url": "path_provider_android_release-1.6.9-sylvain-offline-javadoc.jar",
+          "size": 294299,
+          "sha512": "3a53c71ff4fb91d0dd559cbfe3ba9c251a79947453fbc0ff250a0d6e2e5bda79b9dea559ed6c159730730785ea5169e41df06a7e92d37cf4c2abc0d47024dce2",
+          "sha256": "c360ae2a88b8c61876bef886e1f0faa54fc3340cb4437d072803c74acaf597c1",
+          "sha1": "798004a0874dc7567e2311a5615f3c4aa30cf6ec",
+          "md5": "e58d8fc847e8971204cdb5cc94a63f76"
+        }
+      ]
+    }
+  ]
+}

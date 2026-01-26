@@ -3,11 +3,11 @@
   <groupId>com.palmid</groupId>
   <artifactId>native_sdk</artifactId>
   <versioning>
-    <latest>1.6.10-sylvain-offline</latest>
-    <release>1.6.10-sylvain-offline</release>
+    <latest>1.6.11-sylvain-offline</latest>
+    <release>1.6.11-sylvain-offline</release>
     <versions>
-      <version>1.6.10-sylvain-offline</version>
+      <version>1.6.11-sylvain-offline</version>
     </versions>
-    <lastUpdated>20260122140221</lastUpdated>
+    <lastUpdated>20260126161148</lastUpdated>
   </versioning>
 </metadata>

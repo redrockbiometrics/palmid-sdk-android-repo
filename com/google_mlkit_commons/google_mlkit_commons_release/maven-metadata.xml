@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google_mlkit_commons</groupId>
+  <artifactId>google_mlkit_commons_release</artifactId>
+  <versioning>
+    <latest>1.6.12-sylvain-offline</latest>
+    <release>1.6.12-sylvain-offline</release>
+    <versions>
+      <version>1.6.12-sylvain-offline</version>
+    </versions>
+    <lastUpdated>20260128134708</lastUpdated>
+  </versioning>
+</metadata>

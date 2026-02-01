@@ -3,11 +3,11 @@
   <groupId>com.google_mlkit_commons</groupId>
   <artifactId>google_mlkit_commons_release</artifactId>
   <versioning>
-    <latest>1.6.12-sylvain-offline</latest>
-    <release>1.6.12-sylvain-offline</release>
+    <latest>1.6.13-sylvain-offline</latest>
+    <release>1.6.13-sylvain-offline</release>
     <versions>
-      <version>1.6.12-sylvain-offline</version>
+      <version>1.6.13-sylvain-offline</version>
     </versions>
-    <lastUpdated>20260128134708</lastUpdated>
+    <lastUpdated>20260201152011</lastUpdated>
   </versioning>
 </metadata>

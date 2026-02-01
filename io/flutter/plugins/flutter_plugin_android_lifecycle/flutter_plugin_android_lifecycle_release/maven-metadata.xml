@@ -3,11 +3,11 @@
   <groupId>io.flutter.plugins.flutter_plugin_android_lifecycle</groupId>
   <artifactId>flutter_plugin_android_lifecycle_release</artifactId>
   <versioning>
-    <latest>1.6.12-sylvain-offline</latest>
-    <release>1.6.12-sylvain-offline</release>
+    <latest>1.6.13-sylvain-offline</latest>
+    <release>1.6.13-sylvain-offline</release>
     <versions>
-      <version>1.6.12-sylvain-offline</version>
+      <version>1.6.13-sylvain-offline</version>
     </versions>
-    <lastUpdated>20260128134608</lastUpdated>
+    <lastUpdated>20260201151942</lastUpdated>
   </versioning>
 </metadata>

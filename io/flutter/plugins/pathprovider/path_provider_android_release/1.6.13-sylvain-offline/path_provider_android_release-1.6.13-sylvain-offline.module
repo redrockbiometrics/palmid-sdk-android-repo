@@ -111,11 +111,11 @@
         {
           "name": "path_provider_android_release-1.6.13-sylvain-offline-javadoc.jar",
           "url": "path_provider_android_release-1.6.13-sylvain-offline-javadoc.jar",
-          "size": 294303,
-          "sha512": "2a7c4d428835579de43f18419cb70cddd340eb693151d1a035718ca4102a2daab7f89446754803d51ae6bd81964601abc161bec16622a1efd82c3ef45db57283",
-          "sha256": "49ba8a07b6d9e864886b81f1c141538e63d42638f24cc602ad968517608ea94b",
-          "sha1": "b726eb3e94e71cc94449ea95886ec647c710c9a9",
-          "md5": "284dc971143565acb3a1f3ac619840b8"
+          "size": 294316,
+          "sha512": "d1cfa755dc8a0320c38ac037f56e39079d5f6b8caa10963804b55cbd846e789e038211a8fc1043e00e854d47b52bbaca4b9b3a91755313d18b05b41ea0597683",
+          "sha256": "b2fba31494b223fdc695a4d16c74cae52f7d1911c677e11901933003f8186039",
+          "sha1": "8d09f99d3912c5555ab7309ec9b18f98e3174a95",
+          "md5": "6ab51fd908681728f9f3615fecf75d1a"
         }
       ]
     }

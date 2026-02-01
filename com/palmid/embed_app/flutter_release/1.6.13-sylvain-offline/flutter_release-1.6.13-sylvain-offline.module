@@ -105,11 +105,11 @@
         {
           "name": "flutter_release-1.6.13-sylvain-offline.aar",
           "url": "flutter_release-1.6.13-sylvain-offline.aar",
-          "size": 7624831,
-          "sha512": "5c5d45a69c7eb1b75707fab588df119d5dfadf77378b152318f7f03ffa6b9f7725790855450dd8b376e805a05f9e42a961a1e3d9cbe02acf26ec20b8ca43642e",
-          "sha256": "ea7fc8c0f92324541b2cd7d14b3b786998be30b97297428607663e59b1739a78",
-          "sha1": "021c1383d7d449371da776017946012335404204",
-          "md5": "863c5f66d8d23dc48e5ea65a03349fa9"
+          "size": 7624840,
+          "sha512": "8878a20e97f51744c38eae39998cfcc8a03ca2a0ecba8d9cf86c84535a996ade80bd8d95122d085141c5c814e0ae9e81fffd97fc49375a0198da714b2c31e5b2",
+          "sha256": "74461f0dccb9122d5414b41eb2ad50c5f63523fd3486bdecf0c5a7e2c7fc370d",
+          "sha1": "9bde547fdd2b508cda65a1af5c9d4470d6382be3",
+          "md5": "cfb3969a35a885fb19d1eb8cca426872"
         }
       ]
     },
@@ -204,11 +204,11 @@
         {
           "name": "flutter_release-1.6.13-sylvain-offline.aar",
           "url": "flutter_release-1.6.13-sylvain-offline.aar",
-          "size": 7624831,
-          "sha512": "5c5d45a69c7eb1b75707fab588df119d5dfadf77378b152318f7f03ffa6b9f7725790855450dd8b376e805a05f9e42a961a1e3d9cbe02acf26ec20b8ca43642e",
-          "sha256": "ea7fc8c0f92324541b2cd7d14b3b786998be30b97297428607663e59b1739a78",
-          "sha1": "021c1383d7d449371da776017946012335404204",
-          "md5": "863c5f66d8d23dc48e5ea65a03349fa9"
+          "size": 7624840,
+          "sha512": "8878a20e97f51744c38eae39998cfcc8a03ca2a0ecba8d9cf86c84535a996ade80bd8d95122d085141c5c814e0ae9e81fffd97fc49375a0198da714b2c31e5b2",
+          "sha256": "74461f0dccb9122d5414b41eb2ad50c5f63523fd3486bdecf0c5a7e2c7fc370d",
+          "sha1": "9bde547fdd2b508cda65a1af5c9d4470d6382be3",
+          "md5": "cfb3969a35a885fb19d1eb8cca426872"
         }
       ]
     },

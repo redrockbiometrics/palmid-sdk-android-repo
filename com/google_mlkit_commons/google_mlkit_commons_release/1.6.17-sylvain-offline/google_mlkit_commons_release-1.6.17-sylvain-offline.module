@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.google_mlkit_commons",
+    "module": "google_mlkit_commons_release",
+    "version": "1.6.17-sylvain-offline",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_mlkit_commons_release-1.6.17-sylvain-offline.aar",
+          "url": "google_mlkit_commons_release-1.6.17-sylvain-offline.aar",
+          "size": 7616,
+          "sha512": "2bfd9dce335a16f15c291b411f5ed802973bc678ded29873450a5ded1b967b5bc335a9797f2df39bbd8bea4d09d5107d2de508ee627a437660f2d039c61b9852",
+          "sha256": "36991bff001d425f887db4de2e4b3de23d789c08602035bd5b93fe405ef60860",
+          "sha1": "7fedc4fac6f69f9eeb2c59d636ee0e1fbb355998",
+          "md5": "107f163e2155b84c0d420fc5248cc8f7"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "com.google.mlkit",
+          "module": "vision-common",
+          "version": {
+            "requires": "17.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_mlkit_commons_release-1.6.17-sylvain-offline.aar",
+          "url": "google_mlkit_commons_release-1.6.17-sylvain-offline.aar",
+          "size": 7616,
+          "sha512": "2bfd9dce335a16f15c291b411f5ed802973bc678ded29873450a5ded1b967b5bc335a9797f2df39bbd8bea4d09d5107d2de508ee627a437660f2d039c61b9852",
+          "sha256": "36991bff001d425f887db4de2e4b3de23d789c08602035bd5b93fe405ef60860",
+          "sha1": "7fedc4fac6f69f9eeb2c59d636ee0e1fbb355998",
+          "md5": "107f163e2155b84c0d420fc5248cc8f7"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "google_mlkit_commons_release-1.6.17-sylvain-offline-sources.jar",
+          "url": "google_mlkit_commons_release-1.6.17-sylvain-offline-sources.jar",
+          "size": 4013,
+          "sha512": "56cca6fb77e2d4f711c4c6a5e0e45565d0fcb88e03f1f1e6df13c5312aefff10536363f763baae973d8ea6b2c49ee854beca5db1a81554c47054a5485f1cf4a1",
+          "sha256": "3ca1b9714fb47373196cdb49274585ce5c7b0e2a728871bd7bbfea1a60d1eb58",
+          "sha1": "545a66c10a2570b10e14665a973a6e4aac4f21a1",
+          "md5": "b05d999a79a724354332f75223d40763"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "google_mlkit_commons_release-1.6.17-sylvain-offline-javadoc.jar",
+          "url": "google_mlkit_commons_release-1.6.17-sylvain-offline-javadoc.jar",
+          "size": 273196,
+          "sha512": "2d9b0135572f5b48d75056bc19ec2c9fc0398674c35aebc48acddd1e8faf479a74209c2a16113bb6e7c2efb054a25e24a54c38519c57bc94835d3ca4e9870471",
+          "sha256": "61efb95e2c2e0f217a46f61eb25a77a166b24f34bf4e24f5a5b17a66d2ab2547",
+          "sha1": "07ce3dd5b4b8c1fc4ac3e329c4e1c68ec00608e2",
+          "md5": "1db39a32f504cbf43bf7e2bbca675a8c"
+        }
+      ]
+    }
+  ]
+}

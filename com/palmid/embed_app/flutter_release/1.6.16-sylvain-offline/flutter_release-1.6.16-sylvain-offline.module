@@ -1,0 +1,256 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.palmid.embed_app",
+    "module": "flutter_release",
+    "version": "1.6.16-sylvain-offline",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "armeabi_v7a_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "arm64_v8a_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "x86_64_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.device_info",
+          "module": "device_info_plus_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "com.google_mlkit_barcode_scanning",
+          "module": "google_mlkit_barcode_scanning_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "com.google_mlkit_commons",
+          "module": "google_mlkit_commons_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "com.redrockbiometrics.palmid_sdk_flutter_android_veinshine",
+          "module": "palmid_sdk_flutter_android_veinshine_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.pathprovider",
+          "module": "path_provider_android_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "com.baseflow.permissionhandler",
+          "module": "permission_handler_android_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_release-1.6.16-sylvain-offline.aar",
+          "url": "flutter_release-1.6.16-sylvain-offline.aar",
+          "size": 7631050,
+          "sha512": "345fe57a4c963359ad627419c69ba1e90f418a729e7fe0e034b8923b4b107d25752998ca98fe7d76d32b8a4c2c3ff1246b0cd70469167e8ed33b0f0fdc784a03",
+          "sha256": "4123558d553c6435023e5040f4f3a18c091ca8491ca50c8df19a43d2dc7bb404",
+          "sha1": "db39ac82ff923eaa19561791b4cb09a46f0a0510",
+          "md5": "91c08ac2d635f3c9d65e3ee30f0aa805"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "armeabi_v7a_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "arm64_v8a_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "x86_64_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.device_info",
+          "module": "device_info_plus_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "com.google_mlkit_barcode_scanning",
+          "module": "google_mlkit_barcode_scanning_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "com.google_mlkit_commons",
+          "module": "google_mlkit_commons_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "com.redrockbiometrics.palmid_sdk_flutter_android_veinshine",
+          "module": "palmid_sdk_flutter_android_veinshine_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.pathprovider",
+          "module": "path_provider_android_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        },
+        {
+          "group": "com.baseflow.permissionhandler",
+          "module": "permission_handler_android_release",
+          "version": {
+            "requires": "1.6.16-sylvain-offline"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_release-1.6.16-sylvain-offline.aar",
+          "url": "flutter_release-1.6.16-sylvain-offline.aar",
+          "size": 7631050,
+          "sha512": "345fe57a4c963359ad627419c69ba1e90f418a729e7fe0e034b8923b4b107d25752998ca98fe7d76d32b8a4c2c3ff1246b0cd70469167e8ed33b0f0fdc784a03",
+          "sha256": "4123558d553c6435023e5040f4f3a18c091ca8491ca50c8df19a43d2dc7bb404",
+          "sha1": "db39ac82ff923eaa19561791b4cb09a46f0a0510",
+          "md5": "91c08ac2d635f3c9d65e3ee30f0aa805"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_release-1.6.16-sylvain-offline-sources.jar",
+          "url": "flutter_release-1.6.16-sylvain-offline-sources.jar",
+          "size": 1346,
+          "sha512": "0be5b1cfc8fca51016624c3ed8c4017da1104abb75b51b7d84555d35a82d8260dcbc7b4c0a40408310c6659e59a89b1a17d916c1b13820974a067d07e510d802",
+          "sha256": "c9ab4aeda76d2fbeab2a5f4f0dcd18100f7eb9d27af7a950c1e007cc67d994c7",
+          "sha1": "5d245071ab3992565a50ba4c4201e8e12c47f688",
+          "md5": "aa1e403425846d04e7208f5dcc9d4a0c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_release-1.6.16-sylvain-offline-javadoc.jar",
+          "url": "flutter_release-1.6.16-sylvain-offline-javadoc.jar",
+          "size": 261648,
+          "sha512": "046af801bf5f6daef38a460431cd72ab35e1d67efe93096675624833c32890141dbf5c1a14abb8e7fadd3a0738ede85ec186d6f7485b9c55a5f96af47639f658",
+          "sha256": "93a07b0539a3b094f632b588e7eeaeee9d1a86e53b3e2504c481dbb03fdd6e95",
+          "sha1": "f521fc0f40645fa87c0669aeae1de42c1d0f8382",
+          "md5": "4877b691fedb2bfa67db25104d8ac424"
+        }
+      ]
+    }
+  ]
+}

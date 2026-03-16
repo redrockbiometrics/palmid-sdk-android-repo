@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.palmid",
+    "module": "native_sdk",
+    "version": "1.7.0-offline",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.palmid.embed_app",
+          "module": "flutter_release",
+          "version": {
+            "requires": "1.7.0-offline"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "native_sdk-1.7.0-offline.aar",
+          "url": "native_sdk-1.7.0-offline.aar",
+          "size": 13306,
+          "sha512": "c1f4a2c09e2e230b149a0463525180739d942c4ba297c2341f84956389f5cf4155cf0c53915f1e4270c51455965357f67afb3c27c0da1a6ea5e4eac6c9f6ad6f",
+          "sha256": "cc213c7b006a92dc27e24397941ed9fe2579c9208d57f362a48cdb9d943d35a2",
+          "sha1": "56c61f681284e5ec1ef0ae4b287ecf36e9a160ea",
+          "md5": "7e32c310759b0ed07a0f0a3ea2d97f07"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.10.0"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.1.4"
+          }
+        },
+        {
+          "group": "com.palmid.embed_app",
+          "module": "flutter_release",
+          "version": {
+            "requires": "1.7.0-offline"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "native_sdk-1.7.0-offline.aar",
+          "url": "native_sdk-1.7.0-offline.aar",
+          "size": 13306,
+          "sha512": "c1f4a2c09e2e230b149a0463525180739d942c4ba297c2341f84956389f5cf4155cf0c53915f1e4270c51455965357f67afb3c27c0da1a6ea5e4eac6c9f6ad6f",
+          "sha256": "cc213c7b006a92dc27e24397941ed9fe2579c9208d57f362a48cdb9d943d35a2",
+          "sha1": "56c61f681284e5ec1ef0ae4b287ecf36e9a160ea",
+          "md5": "7e32c310759b0ed07a0f0a3ea2d97f07"
+        }
+      ]
+    }
+  ]
+}

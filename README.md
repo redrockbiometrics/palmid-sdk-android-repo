@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.7.0-offline`
+> `1.7.0`
 
 ---
 

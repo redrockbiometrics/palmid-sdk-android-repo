@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.7.0`
+> `1.7.1-sylvain-offline`
 
 ---
 

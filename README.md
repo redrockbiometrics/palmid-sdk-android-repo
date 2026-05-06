@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.7.1-mainmoney`
+> `1.7.1-pearson-offline`
 
 ---
 

@@ -3,11 +3,11 @@
   <groupId>com.baseflow.permissionhandler</groupId>
   <artifactId>permission_handler_android_release</artifactId>
   <versioning>
-    <latest>1.8.0-pearson-offline</latest>
-    <release>1.8.0-pearson-offline</release>
+    <latest>1.8.0-mainmoney</latest>
+    <release>1.8.0-mainmoney</release>
     <versions>
-      <version>1.8.0-pearson-offline</version>
+      <version>1.8.0-mainmoney</version>
     </versions>
-    <lastUpdated>20260508021000</lastUpdated>
+    <lastUpdated>20260508022445</lastUpdated>
   </versioning>
 </metadata>

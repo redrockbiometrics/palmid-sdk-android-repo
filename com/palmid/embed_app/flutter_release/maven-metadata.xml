@@ -3,11 +3,11 @@
   <groupId>com.palmid.embed_app</groupId>
   <artifactId>flutter_release</artifactId>
   <versioning>
-    <latest>1.8.0-pearson-offline</latest>
-    <release>1.8.0-pearson-offline</release>
+    <latest>1.8.0-mainmoney</latest>
+    <release>1.8.0-mainmoney</release>
     <versions>
-      <version>1.8.0-pearson-offline</version>
+      <version>1.8.0-mainmoney</version>
     </versions>
-    <lastUpdated>20260508021030</lastUpdated>
+    <lastUpdated>20260508022406</lastUpdated>
   </versioning>
 </metadata>

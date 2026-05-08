@@ -18,7 +18,7 @@
 
 > **Latest Version:**
 > 
-> `1.7.2-pearson-offline`
+> `1.8.0-pearson-offline`
 
 ---
 

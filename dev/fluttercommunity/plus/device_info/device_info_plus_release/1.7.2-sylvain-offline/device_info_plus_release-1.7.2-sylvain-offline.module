@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.fluttercommunity.plus.device_info",
+    "module": "device_info_plus_release",
+    "version": "1.7.2-sylvain-offline",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "device_info_plus_release-1.7.2-sylvain-offline.aar",
+          "url": "device_info_plus_release-1.7.2-sylvain-offline.aar",
+          "size": 7080,
+          "sha512": "f7679c09d5f61d7ee467b3196bad2b95c8e3a9ad290e5c287b8eebd8f90d51ae8cb1fa8d008a7af57c9b7fcc74159692d2d26962ab1221f1e43b453267698599",
+          "sha256": "488fa9c597bef64ea0380df13e5db9858589fc04b93c6505c5e0232c8980fc4f",
+          "sha1": "51cac160d2161949392166f9c87aea9920898db7",
+          "md5": "654da53d911e34c828317463ae6407bf"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.7.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "device_info_plus_release-1.7.2-sylvain-offline.aar",
+          "url": "device_info_plus_release-1.7.2-sylvain-offline.aar",
+          "size": 7080,
+          "sha512": "f7679c09d5f61d7ee467b3196bad2b95c8e3a9ad290e5c287b8eebd8f90d51ae8cb1fa8d008a7af57c9b7fcc74159692d2d26962ab1221f1e43b453267698599",
+          "sha256": "488fa9c597bef64ea0380df13e5db9858589fc04b93c6505c5e0232c8980fc4f",
+          "sha1": "51cac160d2161949392166f9c87aea9920898db7",
+          "md5": "654da53d911e34c828317463ae6407bf"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "device_info_plus_release-1.7.2-sylvain-offline-sources.jar",
+          "url": "device_info_plus_release-1.7.2-sylvain-offline-sources.jar",
+          "size": 2976,
+          "sha512": "1761861f6fb5db95ac704c7d130d084b96ab4478dc5f842de5f44bc043ec0c3809c4c87b9d0b3875cf54ca9083b1616109a00c435fdbadcefbba3281e3b2de83",
+          "sha256": "6405767a9d04ec206eb892bcdbf24d7d957f148b3edbb6465cd922f505089e1a",
+          "sha1": "bd75a56b951af14795a22328dd57a94c58b6c76c",
+          "md5": "9f610a1ffc4013caf8c58998432e5ddb"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "device_info_plus_release-1.7.2-sylvain-offline-javadoc.jar",
+          "url": "device_info_plus_release-1.7.2-sylvain-offline-javadoc.jar",
+          "size": 260849,
+          "sha512": "bde35667a0fb7a318dc5bfb6c3b505ca05b19ce920e48d21db4b192c62fcf06698831964718d54f9bb187a140c1ee527110d822562aba3dad5865a4e5abd61be",
+          "sha256": "80ba271da1fdcb075199edf763e320b03fb8871138726c707188768b80137342",
+          "sha1": "f27cdefc75379dacfce842b5bbd36725897ba640",
+          "md5": "4571a4ca3121b96c7984e61037153917"
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <groupId>com.palmid.embed_app</groupId>
   <artifactId>flutter_release</artifactId>
@@ -6,8 +6,9 @@
     <latest>1.8.1-mainmoney</latest>
     <release>1.8.1-mainmoney</release>
     <versions>
+      <version>1.7.2-sylvain-offline</version>
       <version>1.8.1-mainmoney</version>
     </versions>
-    <lastUpdated>20260509002139</lastUpdated>
+    <lastUpdated>20261028022037</lastUpdated>
   </versioning>
 </metadata>

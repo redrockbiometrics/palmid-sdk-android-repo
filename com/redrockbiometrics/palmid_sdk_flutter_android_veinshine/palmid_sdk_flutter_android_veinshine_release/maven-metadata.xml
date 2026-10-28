@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <groupId>com.redrockbiometrics.palmid_sdk_flutter_android_veinshine</groupId>
   <artifactId>palmid_sdk_flutter_android_veinshine_release</artifactId>
   <versioning>
-    <latest>1.7.1-sylvain-offline</latest>
-    <release>1.7.1-sylvain-offline</release>
+    <latest>1.7.2-sylvain-offline</latest>
+    <release>1.7.2-sylvain-offline</release>
     <versions>
       <version>1.7.1-sylvain-offline</version>
+      <version>1.7.2-sylvain-offline</version>
     </versions>
-    <lastUpdated>20260423140201</lastUpdated>
+    <lastUpdated>20261028022515</lastUpdated>
   </versioning>
 </metadata>

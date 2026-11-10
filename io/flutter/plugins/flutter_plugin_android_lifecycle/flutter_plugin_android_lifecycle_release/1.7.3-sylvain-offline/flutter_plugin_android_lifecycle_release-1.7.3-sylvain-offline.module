@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+    "module": "flutter_plugin_android_lifecycle_release",
+    "version": "1.7.3-sylvain-offline",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-1.7.3-sylvain-offline.aar",
+          "url": "flutter_plugin_android_lifecycle_release-1.7.3-sylvain-offline.aar",
+          "size": 2475,
+          "sha512": "3af9f9c7cd9e0a535265ddc01cdf7cffd3066a3a67514b65ab643dacf3189bfccf99fa323449557f06c389ed53f61fe303007e4d4729803e8f04b06f8bd6f9ad",
+          "sha256": "ff5c371fe6ea7e15a77b63360e09f94b91f6609e3076e7b60778834fc149c122",
+          "sha1": "b5041106dbcfe214feaa832117ffbd3c14508c7c",
+          "md5": "f75ea3576ae36cc411389ed9da05dd20"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-1.7.3-sylvain-offline.aar",
+          "url": "flutter_plugin_android_lifecycle_release-1.7.3-sylvain-offline.aar",
+          "size": 2475,
+          "sha512": "3af9f9c7cd9e0a535265ddc01cdf7cffd3066a3a67514b65ab643dacf3189bfccf99fa323449557f06c389ed53f61fe303007e4d4729803e8f04b06f8bd6f9ad",
+          "sha256": "ff5c371fe6ea7e15a77b63360e09f94b91f6609e3076e7b60778834fc149c122",
+          "sha1": "b5041106dbcfe214feaa832117ffbd3c14508c7c",
+          "md5": "f75ea3576ae36cc411389ed9da05dd20"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-1.7.3-sylvain-offline-sources.jar",
+          "url": "flutter_plugin_android_lifecycle_release-1.7.3-sylvain-offline-sources.jar",
+          "size": 2683,
+          "sha512": "635a746ed74b5a22af78afcdce58561ade910967fea6f1ddbb7f1f679d33729de5df3264d017b03461f8b29c074fa26f476f8dfa649f623fc958b876de975afb",
+          "sha256": "bff98f0481cc9246ad3570e21c605149e93f09192369fc84538d7af46c96e250",
+          "sha1": "ae2394f1cb93743a75035065e0ddfc8be21a76b3",
+          "md5": "cf356f23bb7721e821004f38cecb62ad"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_plugin_android_lifecycle_release-1.7.3-sylvain-offline-javadoc.jar",
+          "url": "flutter_plugin_android_lifecycle_release-1.7.3-sylvain-offline-javadoc.jar",
+          "size": 269766,
+          "sha512": "29d100c9581cc3b38252a2fda892207c6339f2495bbd41843667778fba2d69930d5aae4b07cb9d5ba97e01ae6cb38650517d4ca768bfa0983af5c8e0ed5f3d43",
+          "sha256": "44bd0451cdbb8cd9ab8798596329a34f0b93dd12096a9827d88e3f1dc541c613",
+          "sha1": "9d226ad83248e34827cdb873abebd488feae78d8",
+          "md5": "a3173f72fe941eca5dd507b0e1ecfd2a"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.google_mlkit_barcode_scanning",
+    "module": "google_mlkit_barcode_scanning_release",
+    "version": "1.7.3-sylvain-offline",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_mlkit_barcode_scanning_release-1.7.3-sylvain-offline.aar",
+          "url": "google_mlkit_barcode_scanning_release-1.7.3-sylvain-offline.aar",
+          "size": 7824,
+          "sha512": "d82c2985ef7d5f9d400633e355b001c3e376a408c9ec66f0432b52d59c8549dc123ff56e200e564488b409cb4cfcffaa693aafd0f0802360acff49ec23d63106",
+          "sha256": "caad0d70b75b85a1e6fcfda128b02034800526184b42e8f86643f672051aa33c",
+          "sha1": "0e3739fcc0a904a94ddf572fb61804ab04d121b6",
+          "md5": "fc868d317c7087c3c993e7774357cc88"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-82bd5b7209295a5b7ff8cae0df96e7870171e3a5"
+          }
+        },
+        {
+          "group": "com.google.mlkit",
+          "module": "barcode-scanning",
+          "version": {
+            "requires": "17.3.0"
+          }
+        },
+        {
+          "group": "com.google_mlkit_commons",
+          "module": "google_mlkit_commons_release",
+          "version": {
+            "requires": "1.7.3-sylvain-offline"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_mlkit_barcode_scanning_release-1.7.3-sylvain-offline.aar",
+          "url": "google_mlkit_barcode_scanning_release-1.7.3-sylvain-offline.aar",
+          "size": 7824,
+          "sha512": "d82c2985ef7d5f9d400633e355b001c3e376a408c9ec66f0432b52d59c8549dc123ff56e200e564488b409cb4cfcffaa693aafd0f0802360acff49ec23d63106",
+          "sha256": "caad0d70b75b85a1e6fcfda128b02034800526184b42e8f86643f672051aa33c",
+          "sha1": "0e3739fcc0a904a94ddf572fb61804ab04d121b6",
+          "md5": "fc868d317c7087c3c993e7774357cc88"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "google_mlkit_barcode_scanning_release-1.7.3-sylvain-offline-sources.jar",
+          "url": "google_mlkit_barcode_scanning_release-1.7.3-sylvain-offline-sources.jar",
+          "size": 3514,
+          "sha512": "edc71d0d8c326fa93bd01c5188d80ac4d4346ccc70f1548abb511e52aa75de5b6764f30872ba81c92b854dab7b9dc4c30cf379dd8af3f02796ec265e62abc515",
+          "sha256": "8c69cf0310c32407f2bebce060960ca5f4b102e1dd9a8fa19cc2ad54c08e931a",
+          "sha1": "191620e3bc9fd6414159bbc0632467781888e1bd",
+          "md5": "b3d58bc2d06a32412045564ec8450a6a"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "google_mlkit_barcode_scanning_release-1.7.3-sylvain-offline-javadoc.jar",
+          "url": "google_mlkit_barcode_scanning_release-1.7.3-sylvain-offline-javadoc.jar",
+          "size": 266672,
+          "sha512": "f3109982141ef458d3391b9ef35c75568ba60020305ef99514dcff23d890fde2dc40e57b33d4419b84a99591096e835624d2c65ca314ce6430b3e761ce174d37",
+          "sha256": "710756878ecc5c86fe00f953fe05dceb0e6849e23d2cb94c33028117148ce266",
+          "sha1": "25667aa4fd4a68598fe8d73679cbbbaf3fec56f4",
+          "md5": "25d48c6c2158899ed65e50105e91f793"
+        }
+      ]
+    }
+  ]
+}

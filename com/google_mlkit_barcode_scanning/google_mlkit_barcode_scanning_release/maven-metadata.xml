@@ -3,12 +3,13 @@
   <groupId>com.google_mlkit_barcode_scanning</groupId>
   <artifactId>google_mlkit_barcode_scanning_release</artifactId>
   <versioning>
-    <latest>1.7.2-sylvain-offline</latest>
-    <release>1.7.2-sylvain-offline</release>
+    <latest>1.7.3-sylvain-offline</latest>
+    <release>1.7.3-sylvain-offline</release>
     <versions>
       <version>1.7.1-sylvain-offline</version>
       <version>1.7.2-sylvain-offline</version>
+      <version>1.7.3-sylvain-offline</version>
     </versions>
-    <lastUpdated>20261028022209</lastUpdated>
+    <lastUpdated>20261110013321</lastUpdated>
   </versioning>
 </metadata>

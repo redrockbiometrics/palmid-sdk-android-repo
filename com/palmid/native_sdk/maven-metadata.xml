@@ -7,8 +7,9 @@
     <release>1.8.1-mainmoney</release>
     <versions>
       <version>1.7.2-sylvain-offline</version>
+      <version>1.7.3-sylvain-offline</version>
       <version>1.8.1-mainmoney</version>
     </versions>
-    <lastUpdated>20261028022820</lastUpdated>
+    <lastUpdated>20261110013929</lastUpdated>
   </versioning>
 </metadata>

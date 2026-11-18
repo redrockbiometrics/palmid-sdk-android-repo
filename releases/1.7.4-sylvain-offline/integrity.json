@@ -1,0 +1,195 @@
+{
+  "version": "1.7.4-sylvain-offline",
+  "comparedWith": "1.7.3-sylvain-offline",
+  "sourceCommit": "a3e602579905e31ed8044b18923e0c51615db9e5",
+  "artifacts": [
+    {
+      "artifact": "com/baseflow/permissionhandler/permission_handler_android_release/1.7.4-sylvain-offline/permission_handler_android_release-1.7.4-sylvain-offline.aar",
+      "bytes": 24892,
+      "sha256": "572cb6dd13270d882ba36ef52d4f156ad01e936aee265240b4e3aa19dfcf10fa"
+    },
+    {
+      "artifact": "com/google_mlkit_barcode_scanning/google_mlkit_barcode_scanning_release/1.7.4-sylvain-offline/google_mlkit_barcode_scanning_release-1.7.4-sylvain-offline.aar",
+      "bytes": 7824,
+      "sha256": "9470c777ca92038dffeaf59fafbdd62d307576eafa6761890821053eda774538"
+    },
+    {
+      "artifact": "com/google_mlkit_commons/google_mlkit_commons_release/1.7.4-sylvain-offline/google_mlkit_commons_release-1.7.4-sylvain-offline.aar",
+      "bytes": 7616,
+      "sha256": "36991bff001d425f887db4de2e4b3de23d789c08602035bd5b93fe405ef60860"
+    },
+    {
+      "artifact": "com/palmid/embed_app/flutter_release/1.7.4-sylvain-offline/flutter_release-1.7.4-sylvain-offline.aar",
+      "bytes": 7629984,
+      "sha256": "533e034d9407852edacd77230a2526feb7913343a492ed4877b9fd149911fafb"
+    },
+    {
+      "artifact": "com/palmid/native_sdk/1.7.4-sylvain-offline/native_sdk-1.7.4-sylvain-offline.aar",
+      "bytes": 13306,
+      "sha256": "daf37c35d5cf60e10b402c2200a3e3799fba1a4ccfb6061a170daf52b4e2fb2f"
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "bytes": 16369445,
+      "sha256": "c82cbb6572c640f082ad91500e9de06bc059f1b7a4dc9c69f99db471bf364fab"
+    },
+    {
+      "artifact": "dev/fluttercommunity/plus/device_info/device_info_plus_release/1.7.4-sylvain-offline/device_info_plus_release-1.7.4-sylvain-offline.aar",
+      "bytes": 7080,
+      "sha256": "c6df09b8817146d654326f8bc04e8d6395ec7dc656c829df67527aa6cb2c50fd"
+    },
+    {
+      "artifact": "io/flutter/plugins/flutter_plugin_android_lifecycle/flutter_plugin_android_lifecycle_release/1.7.4-sylvain-offline/flutter_plugin_android_lifecycle_release-1.7.4-sylvain-offline.aar",
+      "bytes": 2475,
+      "sha256": "b20912dd899945d34dfc865103237ee300540d47f84d53b94483445d5a8bdd07"
+    },
+    {
+      "artifact": "io/flutter/plugins/pathprovider/path_provider_android_release/1.7.4-sylvain-offline/path_provider_android_release-1.7.4-sylvain-offline.aar",
+      "bytes": 10330,
+      "sha256": "198ffe619beb951ac1af5af6c37392a4ad020d037528c3bba087c64658c5e699"
+    }
+  ],
+  "libraries": [
+    {
+      "artifact": "com/palmid/embed_app/flutter_release/1.7.4-sylvain-offline/flutter_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/arm64-v8a/libapp.so",
+      "sha256_1_7_3": "5cda8d247c605a94996a4571e321e106b4a35cd576b06f342d13d075c722785c",
+      "sha256_1_7_4": "7b09b17d3c78ac45e2b714837371243a94601f89859cfb377cab036ddcabf311",
+      "identical": false,
+      "expectedFlutterCodeChange": true
+    },
+    {
+      "artifact": "com/palmid/embed_app/flutter_release/1.7.4-sylvain-offline/flutter_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/armeabi-v7a/libapp.so",
+      "sha256_1_7_3": "f2e557204da3fbd3f21e1bc8bae1b97f9c9654688f642002a1c346bce8a6eebd",
+      "sha256_1_7_4": "e5c4745485ebeffaec221cc8ddeab4f2786039112dd38a00e15cfd15271265f2",
+      "identical": false,
+      "expectedFlutterCodeChange": true
+    },
+    {
+      "artifact": "com/palmid/embed_app/flutter_release/1.7.4-sylvain-offline/flutter_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/x86_64/libapp.so",
+      "sha256_1_7_3": "bcf03d2aa8d6ad7cfabc6fe4c816b5f3645779a84749c7f4f0c92f184a21f5a8",
+      "sha256_1_7_4": "27be6e49fe43bc1caa9a506c853af3b58b353e86807ee53122854080983226c8",
+      "identical": false,
+      "expectedFlutterCodeChange": true
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/arm64-v8a/libPalmAPI.so",
+      "sha256_1_7_3": "d157b5e6f701eb08700377e5c7bffa83d5629523707d31648b4e9c00d87fad75",
+      "sha256_1_7_4": "d157b5e6f701eb08700377e5c7bffa83d5629523707d31648b4e9c00d87fad75",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/arm64-v8a/libaffinity_manager_ndk.so",
+      "sha256_1_7_3": "2bc40992153cb3700426ee1ac6094881d405deffec4e54230dcfa32b85a54365",
+      "sha256_1_7_4": "2bc40992153cb3700426ee1ac6094881d405deffec4e54230dcfa32b85a54365",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/arm64-v8a/libc++_shared.so",
+      "sha256_1_7_3": "d2eb220e2797d4a6ec5b3919a4f1eb120489f75db39c2bd126d059c137659849",
+      "sha256_1_7_4": "d2eb220e2797d4a6ec5b3919a4f1eb120489f75db39c2bd126d059c137659849",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/arm64-v8a/libomp.so",
+      "sha256_1_7_3": "dd86a6d65299452ee4ac2adc03da773b01fd12c24d439d1605ced0b19c13295e",
+      "sha256_1_7_4": "dd86a6d65299452ee4ac2adc03da773b01fd12c24d439d1605ced0b19c13295e",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/arm64-v8a/libpalm_wrapper.so",
+      "sha256_1_7_3": "159062bda23bf4cda24ac87a0ba21961f348c621c752233652957f597843198e",
+      "sha256_1_7_4": "159062bda23bf4cda24ac87a0ba21961f348c621c752233652957f597843198e",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/arm64-v8a/libstream_jni.so",
+      "sha256_1_7_3": "1bbf1b6242d5d75bb19088137f7940f003f851aac4afcefd4f45ba8bc58045d0",
+      "sha256_1_7_4": "1bbf1b6242d5d75bb19088137f7940f003f851aac4afcefd4f45ba8bc58045d0",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/arm64-v8a/libveinshine_utils.so",
+      "sha256_1_7_3": "129106e5f56d66a9cbf05d802561d45b7494963a27c9a47cdd2781c5de2325a7",
+      "sha256_1_7_4": "129106e5f56d66a9cbf05d802561d45b7494963a27c9a47cdd2781c5de2325a7",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/armeabi-v7a/libPalmAPI.so",
+      "sha256_1_7_3": "3d83c4eeb9ea9cb86f6e46bb9b1a91fbe9395685b54da194a8f734f4d8bf4384",
+      "sha256_1_7_4": "3d83c4eeb9ea9cb86f6e46bb9b1a91fbe9395685b54da194a8f734f4d8bf4384",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/armeabi-v7a/libaffinity_manager_ndk.so",
+      "sha256_1_7_3": "f89e65b2b9bbbb2e9f02cb2d698ae1ad4dcd5fab666fe971a29e6f57982e94ec",
+      "sha256_1_7_4": "f89e65b2b9bbbb2e9f02cb2d698ae1ad4dcd5fab666fe971a29e6f57982e94ec",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/armeabi-v7a/libc++_shared.so",
+      "sha256_1_7_3": "2fd317b355a67f60edd68d14121c89aad78fe4426a426d0abd3db4ca5be0e01f",
+      "sha256_1_7_4": "2fd317b355a67f60edd68d14121c89aad78fe4426a426d0abd3db4ca5be0e01f",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/armeabi-v7a/libomp.so",
+      "sha256_1_7_3": "3011588e16697b2a64bbc7ac8a489b978cf807f94c9d2056a2c0025a5e181540",
+      "sha256_1_7_4": "3011588e16697b2a64bbc7ac8a489b978cf807f94c9d2056a2c0025a5e181540",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/armeabi-v7a/libpalm_wrapper.so",
+      "sha256_1_7_3": "6bab55366494c85d73683af4264fba23137f2043b14a5e2ee09cc8ecb89317e1",
+      "sha256_1_7_4": "6bab55366494c85d73683af4264fba23137f2043b14a5e2ee09cc8ecb89317e1",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/armeabi-v7a/libstream_jni.so",
+      "sha256_1_7_3": "0c40b221d73a5e2da0d2a122108c430cc20c5df1c48cf3eeb551be33de3f6af9",
+      "sha256_1_7_4": "0c40b221d73a5e2da0d2a122108c430cc20c5df1c48cf3eeb551be33de3f6af9",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    },
+    {
+      "artifact": "com/redrockbiometrics/palmid_sdk_flutter_android_veinshine/palmid_sdk_flutter_android_veinshine_release/1.7.4-sylvain-offline/palmid_sdk_flutter_android_veinshine_release-1.7.4-sylvain-offline.aar",
+      "library": "jni/armeabi-v7a/libveinshine_utils.so",
+      "sha256_1_7_3": "fb740b04bf198aa3092624af9d854ef11b093d3ecd4585bb333d7842c4259f08",
+      "sha256_1_7_4": "fb740b04bf198aa3092624af9d854ef11b093d3ecd4585bb333d7842c4259f08",
+      "identical": true,
+      "expectedFlutterCodeChange": false
+    }
+  ],
+  "verifiedChecksumFiles": 208,
+  "summary": {
+    "identicalNativeLibraries": 14,
+    "expectedChangedFlutterLibraries": 3
+  }
+}

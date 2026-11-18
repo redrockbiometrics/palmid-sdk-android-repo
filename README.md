@@ -22,6 +22,16 @@
 
 ---
 
+### Sylvain offline
+
+Latest Sylvain offline version: `1.7.4-sylvain-offline`.
+
+```gradle
+implementation "com.palmid:native_sdk:1.7.4-sylvain-offline"
+```
+
+[Release notes and native-library integrity checks](releases/1.7.4-sylvain-offline/README.md).
+
 ### Using Gradle
 
 Add the following to your project's `settings.gradle` file:
